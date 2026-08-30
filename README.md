@@ -750,4 +750,10 @@ Models in MOSS-TTS Family are licensed under the Apache License 2.0.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=OpenMOSS/MOSS-TTS&type=date&legend=top-left)](https://www.star-history.com/#OpenMOSS/MOSS-TTS&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=OpenMOSS%2FMOSS-TTS&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=OpenMOSS/MOSS-TTS&type=date&theme=dark&legend=top-left&sealed_token=U9cVFfx7RAgxvu5y9Tr8XBsDZRjzoMvUQacaM6JMGF3AS1X4kiuf3xMlR3xBgf3yPxbL0RrbJCGS8vLeZyDqzVSXdrXUyBvczRcjHimYv0kUueMYjKMlF0rFGGpQR3UhGGKy0HdwtHJSV3dbjcstxlLE8J8QAvDk4tlUxeIHhGcGwYZEuHvDtsLOXN4k" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=OpenMOSS/MOSS-TTS&type=date&legend=top-left&sealed_token=U9cVFfx7RAgxvu5y9Tr8XBsDZRjzoMvUQacaM6JMGF3AS1X4kiuf3xMlR3xBgf3yPxbL0RrbJCGS8vLeZyDqzVSXdrXUyBvczRcjHimYv0kUueMYjKMlF0rFGGpQR3UhGGKy0HdwtHJSV3dbjcstxlLE8J8QAvDk4tlUxeIHhGcGwYZEuHvDtsLOXN4k" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=OpenMOSS/MOSS-TTS&type=date&legend=top-left&sealed_token=U9cVFfx7RAgxvu5y9Tr8XBsDZRjzoMvUQacaM6JMGF3AS1X4kiuf3xMlR3xBgf3yPxbL0RrbJCGS8vLeZyDqzVSXdrXUyBvczRcjHimYv0kUueMYjKMlF0rFGGpQR3UhGGKy0HdwtHJSV3dbjcstxlLE8J8QAvDk4tlUxeIHhGcGwYZEuHvDtsLOXN4k" />
+ </picture>
+</a>
